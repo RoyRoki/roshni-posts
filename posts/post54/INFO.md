@@ -1,17 +1,16 @@
-# Post 54 Data (Source Text 54)
+# Post 62 Data (Source Text 62)
 
 ## Image Prompt
-Adult couple sitting on a bed at night, city lights through window, one leaning close to whisper, soft shadows, sensual calm mood.
+Chibi adult couple sitting close on a couch, one poking the other’s cheek playfully, both laughing, cozy pastel tones.
 
 ## Text on Image
-Midnight talks.
-Dangerous closeness.
+Don’t be cute on purpose 😤❤️
 
 ## Text Style
-Minimal sans-serif font, white glow, center.
+Playful handwritten font, white text, center.
 
 ## Caption
-The night changes everything 🌙
+You know exactly what you’re doing 😌
 
 ## Hashtags
-#LateNightRomance #AdultLove #AfterDark #Intimacy
+#CuteTease #PlayfulRomance #AdultCute #CoupleFun

@@ -1,18 +1,18 @@
-# Post 14 Data (Source Text 14)
+# Post 17 Data (Source Text 17)
 
 ## Image Prompt
-Cute baby cartoon couple arguing, one crying dramatically while the other offers chocolate, playful emotional vibe.
+Cartoon couple walking in rain, one holding umbrella over both, emotional cinematic lighting, muted colors.
 
 ## Text on Image
-Ladai tum jeeto,
-mujhe tum chahiye 🥺❤️
+Thak jao toh aa jana,
+main hoon.
 
 ## Text Style
-Cute rounded font, white with red shadow, center.
+Soft handwritten font, white glow, bottom center.
 
 ## Caption
-Ego: ❌
-You: ✅
+Not fixing.
+Just staying 🤍
 
 ## Hashtags
-#CoupleFight #CuteDrama #FunnyLove #BabyCouple #ViralEmotion
+#HealingLove #EmotionalSupport #CoupleGoals #HindiLove

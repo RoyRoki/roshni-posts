@@ -1,19 +1,17 @@
-# Post 28 Data (Source Text 28)
+# Post 33 Data (Source Text 33)
 
 ## Image Prompt
-Cartoon baby couple, one baby holding the other's cheeks aggressively cute, funny expressions.
+Cartoon character giving side-eye while holding partner’s hand tightly, funny expression.
 
 ## Text on Image
-Dekhna allowed ❌
-Churana allowed ❌
-Mera hai ✔️❤️
+Smile sabke liye,
+dil sirf tumhare liye 😌❤️
 
 ## Text Style
-Bold playful font, white with red highlights, center stacked.
+Cute bold font, white with red outline.
 
 ## Caption
-Sharing is caring.
-Except this 😤❤️
+Clear boundaries 😤💗
 
 ## Hashtags
-#MineForever #CutePossessive #BabyLove #CouplePost
+#CuteJealousy #InstantLike #CoupleRules #LoveFun

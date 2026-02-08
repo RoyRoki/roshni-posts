@@ -1,17 +1,17 @@
-# Post 25 Data (Source Text 25)
+# Post 29 Data (Source Text 29)
 
 ## Image Prompt
-Cute cartoon couple hugging tightly, eyes closed, warm indoor light, cozy emotional vibe.
+Minimal cartoon couple holding hands, white background, soft shadows.
 
 ## Text on Image
-Zyada kuch nahi chahiye,
-bas tu chahiye 🤍
+You + Me = Calm ❤️
 
 ## Text Style
-Soft cursive font, cream color, center.
+Clean sans-serif font, black text, center.
 
 ## Caption
-Some love feels like home 🫂🤍
+No drama.
+Just vibes 🤍
 
 ## Hashtags
-#EmotionalCute #DeepLove #CoupleFeels #HeartTouching
+#CoupleVibes #InstantLove #MinimalPost #SoftRomance

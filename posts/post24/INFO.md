@@ -1,18 +1,19 @@
-# Post 24 Data (Source Text 24)
+# Post 28 Data (Source Text 28)
 
 ## Image Prompt
-Minimal cartoon couple sitting on floor with fairy lights around, holding hands, calm cozy vibe.
+Cartoon baby couple, one baby holding the other's cheeks aggressively cute, funny expressions.
 
 ## Text on Image
-I feel safe with you.
+Dekhna allowed ❌
+Churana allowed ❌
+Mera hai ✔️❤️
 
 ## Text Style
-Minimal sans-serif font, warm white, center.
+Bold playful font, white with red highlights, center stacked.
 
 ## Caption
-Not excitement.
-Not chaos.
-Just peace 🤍
+Sharing is caring.
+Except this 😤❤️
 
 ## Hashtags
-#SafeLove #EmotionalConnection #SoftAesthetic #DeepBond
+#MineForever #CutePossessive #BabyLove #CouplePost

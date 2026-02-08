@@ -1,18 +1,20 @@
-# Post 5 Data (Source Text 5)
+# Post 6 Data (Source Text 6)
 
 ## Image Prompt
-Soft illustration of two tiny cartoon characters sleeping on each other's shoulders, cozy night lamp, warm brown and cream tones, peaceful and emotional mood.
+Cute cartoon bears lying on bed, both holding phones, ignoring each other but feet touching, soft pastel colors, cozy room, funny romantic mood.
 
 ## Text on Image
-Saath sona nahi,
-Saath rehna important hai 🤍
+Hum baat kam karte hai,
+par chhodte kabhi nahi 😌❤️
 
 ## Text Style
-Soft handwritten font, cream color, placed gently near the bottom.
+Bold handwritten font, white text with soft red shadow, top center.
 
 ## Caption
-Love is feeling safe enough
-to fall asleep without fear 💤🤍
+Relationship status:
+✔ Ignore
+✔ Overthink
+✔ Still choose each other 😭❤️
 
 ## Hashtags
-#SoftLove #EmotionalCouple #CutePost #LoveMood #DailyLove
+#RealCouple #FunnyLove #RelatablePost #BearLove #CoupleLife #ViralLove

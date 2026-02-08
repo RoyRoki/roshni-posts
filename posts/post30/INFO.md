@@ -1,18 +1,18 @@
-# Post 30 Data (Source Text 30)
+# Post 35 Data (Source Text 35)
 
 ## Image Prompt
-Cute cartoon couple lying on bed, laughing at phone together, cozy night vibe.
+Baby-style cartoon couple holding pinky fingers, big shiny eyes, cute expressions.
 
 ## Text on Image
-Hum baat kam karte hai,
-par pyaar full time hai 😌❤️
+Main tough hoon,
+tum mere liye exception ho 🥺❤️
 
 ## Text Style
-Handwritten font, white with soft glow, top.
+Cute rounded font, white with pink shadow.
 
 ## Caption
-Low talkers.
-High feelings 🫶
+Weak for you.
+Only you 💕
 
 ## Hashtags
-#RelatableCouple #CuteFunny #InstantLikePost #LoveMood
+#BabyLove #CuteEmotion #AwwCouple #InstantLike

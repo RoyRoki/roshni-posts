@@ -1,18 +1,17 @@
-# Post 21 Data (Source Text 21)
+# Post 25 Data (Source Text 25)
 
 ## Image Prompt
-Soft illustration of cartoon couple leaning on each other while sitting on steps, warm evening light, emotional calm mood.
+Cute cartoon couple hugging tightly, eyes closed, warm indoor light, cozy emotional vibe.
 
 ## Text on Image
-তুমি থাকলেই
-আমি ঠিক থাকি 🤍
+Zyada kuch nahi chahiye,
+bas tu chahiye 🤍
 
 ## Text Style
-Clean Bangla script, white text, bottom center.
+Soft cursive font, cream color, center.
 
 ## Caption
-কিছু মানুষ
-নিজের থেকেও আপন লাগে 🫶
+Some love feels like home 🫂🤍
 
 ## Hashtags
-#BanglaEmotion #HeartConnection #SoftLove #DeepFeelings
+#EmotionalCute #DeepLove #CoupleFeels #HeartTouching

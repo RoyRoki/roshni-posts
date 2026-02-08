@@ -1,17 +1,17 @@
-# Post 33 Data (Source Text 33)
+# Post 38 Data (Source Text 38)
 
 ## Image Prompt
-Cartoon character giving side-eye while holding partner’s hand tightly, funny expression.
+Illustration of adult couple standing on a balcony at night, city lights blurred, one holding a mug, close proximity, subtle romantic tension.
 
 ## Text on Image
-Smile sabke liye,
-dil sirf tumhare liye 😌❤️
+Late nights.
+Honest talks.
 
 ## Text Style
-Cute bold font, white with red outline.
+Minimal sans-serif font, soft white glow, center.
 
 ## Caption
-Clear boundaries 😤💗
+This is how real bonding happens 🌙
 
 ## Hashtags
-#CuteJealousy #InstantLike #CoupleRules #LoveFun
+#LateNightTalks #AdultBond #EmotionalConnection #ModernLove

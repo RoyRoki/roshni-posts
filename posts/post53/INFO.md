@@ -1,17 +1,17 @@
-# Post 53 Data (Source Text 53)
+# Post 61 Data (Source Text 61)
 
 ## Image Prompt
-Illustration of an adult couple lying close on a bed, fully clothed, faces inches apart, soft warm lighting, intimate eye contact, minimal background, sensual but classy mood.
+Cute chibi-style adult couple, both clearly adults, big expressive eyes, blushing cheeks, standing very close and smiling shyly at each other, pastel pink background, hearts floating, romantic and soft mood.
 
 ## Text on Image
-Not touching.
-Still burning.
+Stop looking at me like that 🥺❤️
 
 ## Text Style
-Thin elegant serif font, white text, bottom center.
+Cute rounded bubble font, white with soft pink outline, center.
 
 ## Caption
-Some chemistry doesn’t need permission 🔥
+Because I will fall.
+Again 😌💕
 
 ## Hashtags
-#AdultRomance #QuietDesire #18PlusLove #IntimateVibes
+#CuteRomance #AdultChibi #SoftFlirting #AwwLove #18PlusCute

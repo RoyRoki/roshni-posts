@@ -1,16 +1,19 @@
-# Post 55 Data (Source Text 55)
+# Post 63 Data (Source Text 63)
 
 ## Image Prompt
-Adult couple sitting close on a couch, one hand resting on the other's thigh (non-explicit), warm lamp light, intimate atmosphere.
+Chibi adult couple holding hands, one leaning possessively on the other’s shoulder, shy smile, pastel lavender background.
 
 ## Text on Image
-It starts with a touch.
+Excuse me…
+this human is taken 🥰
 
 ## Text Style
-Clean serif font, white text, bottom.
+Cute bold rounded font, white with pink shadow.
 
 ## Caption
-And suddenly everything feels closer 🍷
+Taken.
+Happy.
+Not negotiable 💞
 
 ## Hashtags
-#SubtleRomance #AdultIntimacy #TouchMatters
+#TakenCute #SoftPossessive #AdultLove #AwwMoment

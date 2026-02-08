@@ -1,18 +1,17 @@
-# Post 31 Data (Source Text 31)
+# Post 36 Data (Source Text 36)
 
 ## Image Prompt
-Cute cartoon couple smiling shyly at each other, pastel yellow background.
+Cute cartoon couple smiling softly, pastel background, hearts floating lightly.
 
 ## Text on Image
-তোমাকে দেখলেই
-হাসি চলে আসে 🥰
+Bas saath rehna,
+baaki hum dekh lenge 🤍
 
 ## Text Style
-Rounded Bangla font, white text, center.
+Elegant simple font, white glow.
 
 ## Caption
-Simple feeling.
-Pure happiness 💛
+Teamwork 🤍
 
 ## Hashtags
-#BanglaCute #SweetLove #AwwPost #InstantLike
+#CouplePromise #SoftLove #HeartConnect #LoveDaily

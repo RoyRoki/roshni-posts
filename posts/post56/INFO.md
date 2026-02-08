@@ -1,17 +1,17 @@
-# Post 56 Data (Source Text 56)
+# Post 64 Data (Source Text 64)
 
 ## Image Prompt
-Adult couple standing very close, foreheads touching, dim warm lighting, sensual but emotional tone.
+Chibi adult couple, one whispering something into the other's ear, blushing reaction, pastel peach background, romantic playful mood.
 
 ## Text on Image
-Yeh pyaar hai,
-ya zarurat… pata nahi.
+You’re dangerously attractive 😳❤️
 
 ## Text Style
-Elegant Hindi font, white glow.
+Cute clean sans-serif font, white text, center.
 
 ## Caption
-Bas chhodna mushkil hai 🔥
+I warned you.
+I didn’t lie 😌🔥
 
 ## Hashtags
-#AdultHindiLove #IntenseRomance #18PlusFeelings
+#CuteFlirt #AdultAttraction #SoftRomance #InstantLike

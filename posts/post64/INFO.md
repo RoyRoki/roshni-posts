@@ -1,17 +1,19 @@
-# Post 64 Data (Source Text 64)
+# Post 72 Data (Source Text 72)
 
 ## Image Prompt
-Chibi adult couple, one whispering something into the other's ear, blushing reaction, pastel peach background, romantic playful mood.
+Baby-style cartoon couple, one baby pointing at the other proudly, big shiny eyes, happy expression, pastel blue background.
 
 ## Text on Image
-You’re dangerously attractive 😳❤️
+Yeh dekho…
+mera favourite human 🍼❤️
 
 ## Text Style
-Cute clean sans-serif font, white text, center.
+Rounded bold baby font, white with soft glow.
 
 ## Caption
-I warned you.
-I didn’t lie 😌🔥
+Chosen.
+Daily.
+Forever 🥰
 
 ## Hashtags
-#CuteFlirt #AdultAttraction #SoftRomance #InstantLike
+#FavoriteHuman #BabyLove #CuteCouple #InstantHearts

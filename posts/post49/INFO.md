@@ -1,18 +1,17 @@
-# Post 49 Data (Source Text 49)
+# Post 56 Data (Source Text 56)
 
 ## Image Prompt
-Cute baby-style cartoon couple smiling shyly at each other, pastel yellow background, sparkles.
+Adult couple standing very close, foreheads touching, dim warm lighting, sensual but emotional tone.
 
 ## Text on Image
-তোমাকে দেখলেই
-মনটা নরম হয়ে যায় 🥺
+Yeh pyaar hai,
+ya zarurat… pata nahi.
 
 ## Text Style
-Rounded Bangla cute font, white text with soft shadow.
+Elegant Hindi font, white glow.
 
 ## Caption
-নরম অনুভূতি
-সত্যিকারের 💛
+Bas chhodna mushkil hai 🔥
 
 ## Hashtags
-#BanglaCute #BabyRomance #SweetLove #InstantLike
+#AdultHindiLove #IntenseRomance #18PlusFeelings

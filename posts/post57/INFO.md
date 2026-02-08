@@ -1,18 +1,17 @@
-# Post 57 Data (Source Text 57)
+# Post 65 Data (Source Text 65)
 
 ## Image Prompt
-Adult couple about to kiss, lips very close but not touching, dramatic soft lighting, dark romantic mood.
+Chibi adult couple relaxing at home, sitting close on floor with snacks, cozy warm light, calm happy mood.
 
 ## Text on Image
-So close.
-So dangerous.
+Doing nothing.
+With you.
 
 ## Text Style
-Minimal bold font, center.
+Minimal rounded font, white text, bottom center.
 
 ## Caption
-That pause?
-That’s the addiction 🖤
+My favorite activity 🤍
 
 ## Hashtags
-#AlmostKiss #AdultChemistry #RomanticTension
+#CozyLove #AdultCute #SimpleRomance #RelationshipGoals

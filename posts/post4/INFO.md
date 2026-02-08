@@ -1,19 +1,18 @@
-# Post 4 Data (Source Text 4)
+# Post 5 Data (Source Text 5)
 
 ## Image Prompt
-Playful cartoon illustration of a bear and a cat arguing cutely over a phone, both blushing, hearts floating around, bright pastel colors, fun and romantic vibe.
+Soft illustration of two tiny cartoon characters sleeping on each other's shoulders, cozy night lamp, warm brown and cream tones, peaceful and emotional mood.
 
 ## Text on Image
-We fight.
-We laugh.
-We stay. 💘
+Saath sona nahi,
+Saath rehna important hai 🤍
 
 ## Text Style
-Bold rounded sans-serif font, white text with red heart icons, centered.
+Soft handwritten font, cream color, placed gently near the bottom.
 
 ## Caption
-Real love is not “no fights”.
-Real love is no quitting 😌❤️
+Love is feeling safe enough
+to fall asleep without fear 💤🤍
 
 ## Hashtags
-#RealLove #CoupleFight #FunnyLove #CartoonCouple #RelationshipGoals
+#SoftLove #EmotionalCouple #CutePost #LoveMood #DailyLove

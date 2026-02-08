@@ -1,18 +1,17 @@
-# Post 46 Data (Source Text 46)
+# Post 53 Data (Source Text 53)
 
 ## Image Prompt
-Baby-style cartoon couple sitting close, one baby gently touching the other's cheek, pastel beige and pink tones, cozy vibe.
+Illustration of an adult couple lying close on a bed, fully clothed, faces inches apart, soft warm lighting, intimate eye contact, minimal background, sensual but classy mood.
 
 ## Text on Image
-Sab cute hote hai,
-par tum thode zyada ho 🥰
+Not touching.
+Still burning.
 
 ## Text Style
-Cute handwritten font, white with light red shadow, center.
+Thin elegant serif font, white text, bottom center.
 
 ## Caption
-Not fair.
-But okay 😌❤️
+Some chemistry doesn’t need permission 🔥
 
 ## Hashtags
-#TooCute #BabyRomance #FlatteringLove #CouplePost
+#AdultRomance #QuietDesire #18PlusLove #IntimateVibes

@@ -1,18 +1,18 @@
-# Post 50 Data (Source Text 50)
+# Post 57 Data (Source Text 57)
 
 ## Image Prompt
-Baby-style cartoon couple under blanket, tiny night lamp, warm cozy colors, peaceful expressions.
+Adult couple about to kiss, lips very close but not touching, dramatic soft lighting, dark romantic mood.
 
 ## Text on Image
-Good night nahi,
-tumhari night ho 🥺❤️
+So close.
+So dangerous.
 
 ## Text Style
-Cute cursive font, cream color, bottom.
+Minimal bold font, center.
 
 ## Caption
-Sleep better
-thinking of you 🌙💕
+That pause?
+That’s the addiction 🖤
 
 ## Hashtags
-#BabyCute #NightRomance #CozyLove #AwwPost
+#AlmostKiss #AdultChemistry #RomanticTension

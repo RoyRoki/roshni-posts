@@ -1,18 +1,18 @@
-# Post 18 Data (Source Text 18)
+# Post 22 Data (Source Text 22)
 
 ## Image Prompt
-Cute cartoon bear holding another bear's hand tightly, side-eye expression, hearts floating.
+Cute baby-style cartoon couple, one resting head on the other's shoulder, peaceful expressions, pastel tones.
 
 ## Text on Image
-Public ke liye sweet,
-mere liye sirf 😤❤️
+Strong banne ki zarurat nahi,
+tum ho na 🤍
 
 ## Text Style
-Cute bold font, white with red outline, center.
+Rounded soft font, cream color, middle.
 
 ## Caption
-Soft outside.
-Serious inside 😌
+Love is when you don’t have to be strong
+all the time 🥺🤍
 
 ## Hashtags
-#PossessiveLove #CuteCouple #RelationshipMood #ViralCute
+#EmotionalSafety #CuteLove #BabyCouple #SoftRelationship

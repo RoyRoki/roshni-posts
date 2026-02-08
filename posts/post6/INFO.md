@@ -1,20 +1,21 @@
-# Post 6 Data (Source Text 6)
+# Post 8 Data (Source Text 8)
 
 ## Image Prompt
-Cute cartoon bears lying on bed, both holding phones, ignoring each other but feet touching, soft pastel colors, cozy room, funny romantic mood.
+Cute baby-style cartoon couple, one baby holding the other's hand tightly, playful jealous expression, hearts around, bright pastel colors.
 
 ## Text on Image
-Hum baat kam karte hai,
-par chhodte kabhi nahi 😌❤️
+Mera hai.
+Mat dekh 😤❤️
 
 ## Text Style
-Bold handwritten font, white text with soft red shadow, top center.
+Cute bubble font, white with pink outline, center.
 
 ## Caption
-Relationship status:
-✔ Ignore
-✔ Overthink
-✔ Still choose each other 😭❤️
+Jealous?
+Yes.
+Toxic?
+No.
+Just emotionally attached 🥰
 
 ## Hashtags
-#RealCouple #FunnyLove #RelatablePost #BearLove #CoupleLife #ViralLove
+#CuteJealousy #BabyLove #CouplePost #FunnyRomance #MineForever

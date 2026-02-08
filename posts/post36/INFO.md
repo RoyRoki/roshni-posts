@@ -1,17 +1,17 @@
-# Post 36 Data (Source Text 36)
+# Post 41 Data (Source Text 41)
 
 ## Image Prompt
-Cute cartoon couple smiling softly, pastel background, hearts floating lightly.
+Adult couple standing together in light rain, one leaning slightly toward the other, calm protective energy.
 
 ## Text on Image
-Bas saath rehna,
-baaki hum dekh lenge 🤍
+I don’t need fixing.
+I need understanding.
 
 ## Text Style
-Elegant simple font, white glow.
+Clean sans-serif font, soft white glow.
 
 ## Caption
-Teamwork 🤍
+That’s what partnership really means.
 
 ## Hashtags
-#CouplePromise #SoftLove #HeartConnect #LoveDaily
+#EmotionalSafety #AdultLove #HealthyRelationship

@@ -1,19 +1,18 @@
-# Post 63 Data (Source Text 63)
+# Post 71 Data (Source Text 71)
 
 ## Image Prompt
-Chibi adult couple holding hands, one leaning possessively on the other’s shoulder, shy smile, pastel lavender background.
+
 
 ## Text on Image
-Excuse me…
-this human is taken 🥰
+Dekho mat aise…
+dil chota sa hai 🥺❤️
 
 ## Text Style
-Cute bold rounded font, white with pink shadow.
+Cute handwritten baby font, cream color, center.
 
 ## Caption
-Taken.
-Happy.
-Not negotiable 💞
+Shy outside.
+Attached inside 🫶
 
 ## Hashtags
-#TakenCute #SoftPossessive #AdultLove #AwwMoment
+#ShyLove #BabyRomance #CuteFeels #AwwMoment

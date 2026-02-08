@@ -1,18 +1,18 @@
-# Post 43 Data (Source Text 43)
+# Post 50 Data (Source Text 50)
 
 ## Image Prompt
-Adult couple sitting close by a window at night, city lights outside, calm emotional vibe.
+Baby-style cartoon couple under blanket, tiny night lamp, warm cozy colors, peaceful expressions.
 
 ## Text on Image
-তুমি থাকলে
-সব কিছু সহনীয় লাগে।
+Good night nahi,
+tumhari night ho 🥺❤️
 
 ## Text Style
-Clean Bangla font, white text, bottom.
+Cute cursive font, cream color, bottom.
 
 ## Caption
-ভালোবাসা মানে
-জীবনকে হালকা করা 🤍
+Sleep better
+thinking of you 🌙💕
 
 ## Hashtags
-#BanglaLove #AdultEmotion #DeepConnection
+#BabyCute #NightRomance #CozyLove #AwwPost

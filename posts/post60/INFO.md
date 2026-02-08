@@ -1,17 +1,16 @@
-# Post 60 Data (Source Text 60)
+# Post 68 Data (Source Text 68)
 
 ## Image Prompt
-Adult couple lying side by side, hands intertwined, dim bedroom light, calm intimate silence.
+Chibi adult couple hugging gently, eyes closed, warm glow, pastel background, hearts floating lightly.
 
 ## Text on Image
-No words.
-Just us.
+Come here 🤍
 
 ## Text Style
-Thin serif font, bottom center.
+Soft handwritten font, white glow, center.
 
 ## Caption
-This is where desire slows down and deepens 🌑
+This hug fixes everything 🫂🤍
 
 ## Hashtags
-#AfterDarkLove #AdultConnection #IntimateMoments
+#SoftHug #CuteRomance #AdultAffection #HeartMelt

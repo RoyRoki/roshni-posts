@@ -1,18 +1,19 @@
-# Post 3 Data (Source Text 3)
+# Post 4 Data (Source Text 4)
 
 ## Image Prompt
-Cute baby-style cartoon couple holding hands while walking on a dreamy cloud path, heart-shaped balloons floating, soft sky-blue and pink tones, magical romantic feel.
+Playful cartoon illustration of a bear and a cat arguing cutely over a phone, both blushing, hearts floating around, bright pastel colors, fun and romantic vibe.
 
 ## Text on Image
-তুমি পাশে থাকলে
-সবকিছু সহজ লাগে 💞
+We fight.
+We laugh.
+We stay. 💘
 
 ## Text Style
-Rounded cute Bangla font, white text with light pink shadow, placed bottom center.
+Bold rounded sans-serif font, white text with red heart icons, centered.
 
 ## Caption
-ভালোবাসা মানে সব ঠিক হয়ে যাওয়া না,
-ভালোবাসা মানে একসাথে সহ্য করা 💗
+Real love is not “no fights”.
+Real love is no quitting 😌❤️
 
 ## Hashtags
-#BanglaLove #CuteCouple #EmotionalPost #LoveFeelings #RomanticBangla
+#RealLove #CoupleFight #FunnyLove #CartoonCouple #RelationshipGoals

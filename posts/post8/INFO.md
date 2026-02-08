@@ -1,21 +1,19 @@
-# Post 8 Data (Source Text 8)
+# Post 10 Data (Source Text 10)
 
 ## Image Prompt
-Cute baby-style cartoon couple, one baby holding the other's hand tightly, playful jealous expression, hearts around, bright pastel colors.
+Cartoon couple standing in rain under one umbrella, close together, emotional cinematic lighting, muted colors, deep romantic mood.
 
 ## Text on Image
-Mera hai.
-Mat dekh 😤❤️
+Pyaar perfect nahi hota,
+par saccha hota hai.
 
 ## Text Style
-Cute bubble font, white with pink outline, center.
+Classic serif font, white with subtle glow, bottom center.
 
 ## Caption
-Jealous?
-Yes.
-Toxic?
-No.
-Just emotionally attached 🥰
+Jo saath rahe
+jab sab heavy ho —
+wahi apna hota hai 🌧️❤️
 
 ## Hashtags
-#CuteJealousy #BabyLove #CouplePost #FunnyRomance #MineForever
+#TrueLove #EmotionalPost #HindiLove #CoupleGoals #RealRelationship

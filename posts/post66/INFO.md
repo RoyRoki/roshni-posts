@@ -1,17 +1,18 @@
-# Post 66 Data (Source Text 66)
+# Post 74 Data (Source Text 74)
 
 ## Image Prompt
-Chibi adult couple under a blanket watching phone together, warm night lamp, sleepy smiles, soft pastel tones.
+Baby-style cartoon couple sharing one strawberry, both biting from each side, giggling, pastel red and pink background.
 
 ## Text on Image
-Stay a little longer 🥺
+Half tumhara.
+Half mera.
+Smile full ❤️🍼
 
 ## Text Style
-Cute cursive font, cream color.
+Cute playful bubble font, white with text.
 
 ## Caption
-Just five more minutes.
-Always five more 🥹❤️
+Equal distribution of happiness 🍓🥹
 
 ## Hashtags
-#NightCute #SoftIntimacy #AdultCouple #AwwVibes
+#BabySharing #CuteLove #AwwEnergy #RomanticBaby

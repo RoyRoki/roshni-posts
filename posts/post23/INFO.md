@@ -1,18 +1,18 @@
-# Post 23 Data (Source Text 23)
+# Post 27 Data (Source Text 27)
 
 ## Image Prompt
-Cartoon couple standing under a tree after rain, water drops falling, one gently wiping the other's face, emotional healing mood.
+Cute chubby cartoon bear blushing while looking at another bear, hearts popping suddenly, pastel pink background.
 
 ## Text on Image
-Tu theek nahi hai,
-par tu akela bhi nahi hai 🤍
+Bas ek hi problem hai…
+tum bahut zyada cute ho 🥺❤️
 
 ## Text Style
-Handwritten soft font, white glow, bottom.
+Cute bubble font, white with pink outline, center.
 
 ## Caption
-Healing starts
-when someone stays 🌱🤍
+Problem hai.
+Solution nahi 😌❤️
 
 ## Hashtags
-#HealingLove #EmotionalSupport #DeepCare #TrueRelationship
+#TooCute #InstantLike #CuteCouple #LovePost #AwwMoment

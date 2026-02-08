@@ -1,16 +1,18 @@
-# Post 62 Data (Source Text 62)
+# Post 70 Data (Source Text 70)
 
 ## Image Prompt
-Chibi adult couple sitting close on a couch, one poking the other’s cheek playfully, both laughing, cozy pastel tones.
+Baby-style cartoon couple, one baby suddenly hugging the other tightly from the side, surprised cute expression, pastel lavender background, floating hearts.
 
 ## Text on Image
-Don’t be cute on purpose 😤❤️
+Warning:
+Incoming hug 🫂🍼❤️
 
 ## Text Style
-Playful handwritten font, white text, center.
+Cute sticker-style font, white with pink shadow.
 
 ## Caption
-You know exactly what you’re doing 😌
+No escape.
+Only hugs 🥹🤍
 
 ## Hashtags
-#CuteTease #PlayfulRomance #AdultCute #CoupleFun
+#BabyHug #CuteAttack #SoftLove #HeartMelting

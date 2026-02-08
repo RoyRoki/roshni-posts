@@ -1,18 +1,17 @@
-# Post 35 Data (Source Text 35)
+# Post 40 Data (Source Text 40)
 
 ## Image Prompt
-Baby-style cartoon couple holding pinky fingers, big shiny eyes, cute expressions.
+Adult couple sitting close at a table, wine glasses, soft candle light, eye contact, romantic tension, classy illustration.
 
 ## Text on Image
-Main tough hoon,
-tum mere liye exception ho 🥺❤️
+It's the way you look at me.
 
 ## Text Style
-Cute rounded font, white with pink shadow.
+Thin serif font, white text, center.
 
 ## Caption
-Weak for you.
-Only you 💕
+Grown love is felt,
+not announced 🍷
 
 ## Hashtags
-#BabyLove #CuteEmotion #AwwCouple #InstantLike
+#AdultRomance #SubtleAttraction #RelationshipGoals #ClassyLove

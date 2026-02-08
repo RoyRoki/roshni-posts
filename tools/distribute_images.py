@@ -4,21 +4,21 @@ import time
 from datetime import datetime, timedelta
 
 # Configuration
-DOWNLOADS_DIR = os.path.join(os.getcwd(), "test") # Use 'test' directory in CWD
+DOWNLOADS_DIR = os.path.expanduser("~/Downloads")
 POSTS_DIR = "posts"
+TIME_WINDOW_HOURS = 1
 IMAGE_EXTENSIONS = {'.png', '.jpg', '.jpeg', '.webp'}
 
 def distribute_images():
-    # 1. Find all images in the source directory
+    # 1. Find images in Downloads modified in the last hour
+    now = datetime.now()
+    cutoff_time = now - timedelta(hours=TIME_WINDOW_HOURS)
+    
     candidates = []
     
-    print(f"Scanning {DOWNLOADS_DIR} for images...")
+    print(f"Scanning {DOWNLOADS_DIR} for images modified after {cutoff_time}...")
     
     try:
-        if not os.path.exists(DOWNLOADS_DIR):
-             print(f"Source directory {DOWNLOADS_DIR} does not exist.")
-             return
-
         for filename in os.listdir(DOWNLOADS_DIR):
             if filename.startswith('.'):
                 continue
@@ -34,20 +34,23 @@ def distribute_images():
             if ext not in IMAGE_EXTENSIONS:
                 continue
                 
-            # Get modification time
-            mtime = os.path.getmtime(filepath)
-            candidates.append((filepath, mtime))
-            
+            # Check modification time
+            mtime = datetime.fromtimestamp(os.path.getmtime(filepath))
+            if mtime >= cutoff_time:
+                candidates.append((filepath, mtime))
     except Exception as e:
-        print(f"Error scanning source dir: {e}")
+        print(f"Error scanning Downloads: {e}")
         return
 
-    # 2. Sort candidates by modification time (oldest first)
-    # User requested "short on timestam" (sort on timestamp)
+    # 2. Sort candidates by modification time (oldest first? or newest? usually newest downloaded is last modified)
+    # The user said "first downloaded image of last 1h" -> "next image go post2"
+    # This implies sorting by time. "First downloaded" usually means oldest in the window? 
+    # Or order of download? 
+    # Let's assume sorting by mtime ascending (oldest to newest) matches "first downloaded".
     candidates.sort(key=lambda x: x[1])
 
     if not candidates:
-        print("No images found.")
+        print("No matching images found in the last hour.")
         return
 
     print(f"Found {len(candidates)} images to distribute.")
@@ -69,14 +72,15 @@ def distribute_images():
 
 if __name__ == "__main__":
     current_cwd = os.getcwd()
-    # Adjust POSTS_DIR if running from tools/
     if not os.path.exists(POSTS_DIR):
+        # Fallback if running from tools/ or similar
+        # Try to find posts dir relative to script or cwd
         if os.path.exists(os.path.join("..", POSTS_DIR)):
              POSTS_DIR = os.path.join("..", POSTS_DIR)
-             # If we are in tools/, then test/ is likely in .. / test
-             if os.path.basename(current_cwd) == "tools":
-                 DOWNLOADS_DIR = os.path.join("..", "test")
         elif os.path.exists(os.path.join(current_cwd, "posts")):
              POSTS_DIR = os.path.join(current_cwd, "posts")
-    
+        else:
+             print(f"Could not find {POSTS_DIR} directory.")
+             exit(1)
+             
     distribute_images()

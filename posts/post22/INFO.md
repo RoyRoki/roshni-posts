@@ -1,18 +1,19 @@
-# Post 22 Data (Source Text 22)
+# Post 26 Data (Source Text 26)
 
 ## Image Prompt
-Cute baby-style cartoon couple, one resting head on the other's shoulder, peaceful expressions, pastel tones.
+Cartoon couple walking into distance holding hands, night sky full of stars, calm hopeful mood.
 
 ## Text on Image
-Strong banne ki zarurat nahi,
-tum ho na 🤍
+Aaj bhi,
+kal bhi,
+tum 🤍
 
 ## Text Style
-Rounded soft font, cream color, middle.
+Minimal serif font, white glow, bottom center.
 
 ## Caption
-Love is when you don’t have to be strong
-all the time 🥺🤍
+Forever doesn’t shout.
+It stays 🌌🤍
 
 ## Hashtags
-#EmotionalSafety #CuteLove #BabyCouple #SoftRelationship
+#ForeverLove #DeepEmotion #SoftRomance #ConnectedHearts

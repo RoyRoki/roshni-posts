@@ -1,17 +1,26 @@
-# Post 65 Data (Source Text 65)
+# Post 73 Data (Source Text 73)
 
 ## Image Prompt
-Chibi adult couple relaxing at home, sitting close on floor with snacks, cozy warm light, calm happy mood.
+Baby cartoon couple falling asleep sitting up, heads touching, tiny yawns, warm night lamp, cozy pastel tones.
 
 ## Text on Image
-Doing nothing.
-With you.
+Ninni aa rahi hai…
+par tum jaana mat 🥺🤍
 
 ## Text Style
-Minimal rounded font, white text, bottom center.
+Soft baby cursive font, cream color.
+
+�� CAPTION
+
+Sleep hits harder
+with you near 😴💕
+
+�� HASHTAGS
+
+#SleepyLove #BabyCute #NightAww #SoftRomance
 
 ## Caption
-My favorite activity 🤍
+
 
 ## Hashtags
-#CozyLove #AdultCute #SimpleRomance #RelationshipGoals
+

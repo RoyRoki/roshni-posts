@@ -1,18 +1,18 @@
-# Post 19 Data (Source Text 19)
+# Post 23 Data (Source Text 23)
 
 ## Image Prompt
-Soft pastel illustration of two cartoon bears sitting quietly side by side, shoulders touching, sunset sky, calm emotional mood, minimal background.
+Cartoon couple standing under a tree after rain, water drops falling, one gently wiping the other's face, emotional healing mood.
 
 ## Text on Image
-Har din baat zaroori nahi,
-har din saath ka ehsaas zaroori hai 🤍
+Tu theek nahi hai,
+par tu akela bhi nahi hai 🤍
 
 ## Text Style
-Soft handwritten cursive, warm white color, bottom center.
+Handwritten soft font, white glow, bottom.
 
 ## Caption
-Some bonds don’t need noise.
-They just need honesty 🧸🤍
+Healing starts
+when someone stays 🌱🤍
 
 ## Hashtags
-#QuietLove #DeepConnection #SoftRomance #EmotionalPost #TrueBond
+#HealingLove #EmotionalSupport #DeepCare #TrueRelationship

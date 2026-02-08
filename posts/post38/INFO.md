@@ -1,17 +1,17 @@
-# Post 38 Data (Source Text 38)
+# Post 44 Data (Source Text 44)
 
 ## Image Prompt
-Illustration of adult couple standing on a balcony at night, city lights blurred, one holding a mug, close proximity, subtle romantic tension.
+Minimal illustration of adult couple holding hands firmly, neutral background, confident calm energy.
 
 ## Text on Image
-Late nights.
-Honest talks.
+We’re not perfect.
+We’re intentional.
 
 ## Text Style
-Minimal sans-serif font, soft white glow, center.
+Bold minimal sans-serif font, center.
 
 ## Caption
-This is how real bonding happens 🌙
+That’s grown love.
 
 ## Hashtags
-#LateNightTalks #AdultBond #EmotionalConnection #ModernLove
+#IntentionalLove #AdultCouple #HealthyRomance

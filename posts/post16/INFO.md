@@ -1,18 +1,18 @@
-# Post 16 Data (Source Text 16)
+# Post 19 Data (Source Text 19)
 
 ## Image Prompt
-Cartoon couple lying side by side, staring at ceiling, overthinking expressions, minimal background.
+Soft pastel illustration of two cartoon bears sitting quietly side by side, shoulders touching, sunset sky, calm emotional mood, minimal background.
 
 ## Text on Image
-Hum overthink karte hai,
-par pyaar bhi 💀❤️
+Har din baat zaroori nahi,
+har din saath ka ehsaas zaroori hai 🤍
 
 ## Text Style
-Bold sans-serif meme font, white text with black shadow, top.
+Soft handwritten cursive, warm white color, bottom center.
 
 ## Caption
-Mental health ❌
-Emotional attachment ✅
+Some bonds don’t need noise.
+They just need honesty 🧸🤍
 
 ## Hashtags
-#Overthinkers #RelatableCouple #MemeLove #ViralContent
+#QuietLove #DeepConnection #SoftRomance #EmotionalPost #TrueBond

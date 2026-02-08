@@ -1,18 +1,18 @@
-# Post 12 Data (Source Text 12)
+# Post 14 Data (Source Text 14)
 
 ## Image Prompt
-Cute cartoon bear hugging another bear from behind while the other looks annoyed but smiling, soft pastel colors, playful vibe.
+Cute baby cartoon couple arguing, one crying dramatically while the other offers chocolate, playful emotional vibe.
 
 ## Text on Image
-Zyada cute mat bano,
-aadat ho jayegi 😌❤️
+Ladai tum jeeto,
+mujhe tum chahiye 🥺❤️
 
 ## Text Style
-Bold handwritten font, white with pink outline, center.
+Cute rounded font, white with red shadow, center.
 
 ## Caption
-Warning:
-Main addictive hoon 💀❤️
+Ego: ❌
+You: ✅
 
 ## Hashtags
-#SavageLove #CuteWarning #CoupleFun #RelatableLove #ViralPost
+#CoupleFight #CuteDrama #FunnyLove #BabyCouple #ViralEmotion

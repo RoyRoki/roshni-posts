@@ -1,19 +1,17 @@
-# Post 47 Data (Source Text 47)
+# Post 54 Data (Source Text 54)
 
 ## Image Prompt
-Cute baby cartoon couple holding hands tightly, one baby giving playful side-eye, pastel lavender background.
+Adult couple sitting on a bed at night, city lights through window, one leaning close to whisper, soft shadows, sensual calm mood.
 
 ## Text on Image
-Sabke liye sweet,
-mere liye special 😤❤️
+Midnight talks.
+Dangerous closeness.
 
 ## Text Style
-Cute bold rounded font, white with pink outline.
+Minimal sans-serif font, white glow, center.
 
 ## Caption
-Priority list:
-You.
-Then you again 💗
+The night changes everything 🌙
 
 ## Hashtags
-#BabyLove #CutePossessive #RomanticCute #InstantHearts
+#LateNightRomance #AdultLove #AfterDark #Intimacy

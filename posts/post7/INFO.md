@@ -1,18 +1,18 @@
-# Post 7 Data (Source Text 7)
+# Post 9 Data (Source Text 9)
 
 ## Image Prompt
-Soft emotional illustration of two cartoon cats sitting silently side by side, night sky, moonlight, calm and deep mood, minimal background.
+Minimal cartoon illustration of bear and cat walking hand in hand, white background, simple clean aesthetic, romantic vibe.
 
 ## Text on Image
-সব সময় কথা হয় না,
-কিন্তু অনুভব হয় 🤍
+You’re my safe place.
 
 ## Text Style
-Elegant Bangla font, soft white color, bottom center.
+Clean modern sans-serif font, black text, center minimal.
 
 ## Caption
-ভালোবাসা সব সময় শব্দ চায় না,
-কখনো শুধু উপস্থিতি 🖤
+Not butterflies.
+Not drama.
+Just peace 🖤
 
 ## Hashtags
-#BanglaEmotion #SilentLove #DeepFeelings #CatCouple #TrueBond
+#SafeLove #MinimalRomance #CoupleAesthetic #SoftVibes #ViralQuote

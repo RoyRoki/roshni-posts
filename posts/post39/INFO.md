@@ -1,18 +1,18 @@
-# Post 39 Data (Source Text 39)
+# Post 45 Data (Source Text 45)
 
 ## Image Prompt
-Adult couple walking side by side on an empty street, evening light, calm and grounded mood, realistic illustration.
+Super cute baby-style cartoon couple, big shiny eyes, rosy cheeks, one baby looking shy while the other smiles softly, pastel pink background, hearts floating.
 
 ## Text on Image
-Zyada pyaar nahi,
-bas samajhna chahiye.
+Mujhe dekh ke jo tum muskurate ho,
+bas wahi pyaar hai 🥺❤️
 
 ## Text Style
-Simple elegant Hindi font, white text, bottom.
+Cute rounded bubble font, white text with soft pink outline, center.
 
 ## Caption
-Pyaar shor nahi karta.
-Saath nibhata hai 🤍
+Soft smile.
+Strong feelings 🫶
 
 ## Hashtags
-#MatureLove #HindiQuotes #AdultRelationship #DeepBond
+#BabyCute #RomanticFeels #AwwLove #CuteCouple #InstantLike

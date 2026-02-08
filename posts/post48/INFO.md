@@ -1,18 +1,16 @@
-# Post 48 Data (Source Text 48)
+# Post 55 Data (Source Text 55)
 
 ## Image Prompt
-Baby-style cartoon couple hugging, eyes closed, soft glow, pastel peach background, hearts floating gently.
+Adult couple sitting close on a couch, one hand resting on the other's thigh (non-explicit), warm lamp light, intimate atmosphere.
 
 ## Text on Image
-I like you.
-A lot. 🥺❤️
+It starts with a touch.
 
 ## Text Style
-Cute minimal sans-serif font, white text, center.
+Clean serif font, white text, bottom.
 
 ## Caption
-Simple words.
-Real feelings 🤍
+And suddenly everything feels closer 🍷
 
 ## Hashtags
-#BabyCute #SoftRomance #AwwMoment #LovePost
+#SubtleRomance #AdultIntimacy #TouchMatters

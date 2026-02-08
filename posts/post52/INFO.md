@@ -1,16 +1,17 @@
-# Post 52 Data (Source Text 52)
+# Post 60 Data (Source Text 60)
 
 ## Image Prompt
-Baby-style cartoon couple holding pinky fingers, big shiny eyes, pastel background.
+Adult couple lying side by side, hands intertwined, dim bedroom light, calm intimate silence.
 
 ## Text on Image
-Tu + Main 🍼❤️
+No words.
+Just us.
 
 ## Text Style
-Bold cute bubble font, center.
+Thin serif font, bottom center.
 
 ## Caption
-Enough said 🥺🤍
+This is where desire slows down and deepens 🌑
 
 ## Hashtags
-#BabyCouple #CuteLove #AwwVibes #HeartMelting
+#AfterDarkLove #AdultConnection #IntimateMoments

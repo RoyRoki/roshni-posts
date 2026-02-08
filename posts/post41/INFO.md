@@ -1,17 +1,19 @@
-# Post 41 Data (Source Text 41)
+# Post 47 Data (Source Text 47)
 
 ## Image Prompt
-Adult couple standing together in light rain, one leaning slightly toward the other, calm protective energy.
+Cute baby cartoon couple holding hands tightly, one baby giving playful side-eye, pastel lavender background.
 
 ## Text on Image
-I don’t need fixing.
-I need understanding.
+Sabke liye sweet,
+mere liye special 😤❤️
 
 ## Text Style
-Clean sans-serif font, soft white glow.
+Cute bold rounded font, white with pink outline.
 
 ## Caption
-That’s what partnership really means.
+Priority list:
+You.
+Then you again 💗
 
 ## Hashtags
-#EmotionalSafety #AdultLove #HealthyRelationship
+#BabyLove #CutePossessive #RomanticCute #InstantHearts

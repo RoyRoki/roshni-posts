@@ -1,19 +1,18 @@
-# Post 10 Data (Source Text 10)
+# Post 12 Data (Source Text 12)
 
 ## Image Prompt
-Cartoon couple standing in rain under one umbrella, close together, emotional cinematic lighting, muted colors, deep romantic mood.
+Cute cartoon bear hugging another bear from behind while the other looks annoyed but smiling, soft pastel colors, playful vibe.
 
 ## Text on Image
-Pyaar perfect nahi hota,
-par saccha hota hai.
+Zyada cute mat bano,
+aadat ho jayegi 😌❤️
 
 ## Text Style
-Classic serif font, white with subtle glow, bottom center.
+Bold handwritten font, white with pink outline, center.
 
 ## Caption
-Jo saath rahe
-jab sab heavy ho —
-wahi apna hota hai 🌧️❤️
+Warning:
+Main addictive hoon 💀❤️
 
 ## Hashtags
-#TrueLove #EmotionalPost #HindiLove #CoupleGoals #RealRelationship
+#SavageLove #CuteWarning #CoupleFun #RelatableLove #ViralPost

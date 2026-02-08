@@ -1,17 +1,18 @@
-# Post 40 Data (Source Text 40)
+# Post 46 Data (Source Text 46)
 
 ## Image Prompt
-Adult couple sitting close at a table, wine glasses, soft candle light, eye contact, romantic tension, classy illustration.
+Baby-style cartoon couple sitting close, one baby gently touching the other's cheek, pastel beige and pink tones, cozy vibe.
 
 ## Text on Image
-It's the way you look at me.
+Sab cute hote hai,
+par tum thode zyada ho 🥰
 
 ## Text Style
-Thin serif font, white text, center.
+Cute handwritten font, white with light red shadow, center.
 
 ## Caption
-Grown love is felt,
-not announced 🍷
+Not fair.
+But okay 😌❤️
 
 ## Hashtags
-#AdultRomance #SubtleAttraction #RelationshipGoals #ClassyLove
+#TooCute #BabyRomance #FlatteringLove #CouplePost

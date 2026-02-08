@@ -1,17 +1,17 @@
-# Post 61 Data (Source Text 61)
+# Post 69 Data (Source Text 69)
 
 ## Image Prompt
-Cute chibi-style adult couple, both clearly adults, big expressive eyes, blushing cheeks, standing very close and smiling shyly at each other, pastel pink background, hearts floating, romantic and soft mood.
+Super cute baby-style cartoon couple sitting on the floor, both holding milk bottles, clinking bottles like a toast, chubby cheeks, pastel pink and cream background, sparkles.
 
 ## Text on Image
-Stop looking at me like that 🥺❤️
+Milk peene ka time hai…
+par tum zyada sweet ho 🥺❤️
 
 ## Text Style
-Cute rounded bubble font, white with soft pink outline, center.
+Extra rounded baby bubble font, white with soft pink outline, center.
 
 ## Caption
-Because I will fall.
-Again 😌💕
+Too sweet for my system 🍼💕
 
 ## Hashtags
-#CuteRomance #AdultChibi #SoftFlirting #AwwLove #18PlusCute
+#BabyCute #TooSweet #AwwCouple #CuteRomance #InstantLike

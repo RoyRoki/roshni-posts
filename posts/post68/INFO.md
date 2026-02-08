@@ -1,16 +1,17 @@
-# Post 68 Data (Source Text 68)
+# Post 76 Data (Source Text 76)
 
 ## Image Prompt
-Chibi adult couple hugging gently, eyes closed, warm glow, pastel background, hearts floating lightly.
+Baby-style cartoon couple sitting inside a big heart shape, waving happily, chubby cheeks, pastel rainbow background.
 
 ## Text on Image
-Come here 🤍
+Okay bye…
+par dil yahin chhod diya ❤️🍼
 
 ## Text Style
-Soft handwritten font, white glow, center.
+Cute sticker-style font, white with soft glow.
 
 ## Caption
-This hug fixes everything 🫂🤍
+Take care of it 🥹🤍
 
 ## Hashtags
-#SoftHug #CuteRomance #AdultAffection #HeartMelt
+#BabyAww #CuteEnding #LovePost #InstantLike

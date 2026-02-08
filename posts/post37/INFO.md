@@ -1,17 +1,18 @@
-# Post 37 Data (Source Text 37)
+# Post 42 Data (Source Text 42)
 
 ## Image Prompt
-Minimal illustration of an adult couple sitting on a couch at night, legs touching, warm lamp light, calm and intimate mood, modern aesthetic.
+Adult couple sitting quietly after a long day, shoes off, relaxed posture, warm indoor light, realistic illustration.
 
 ## Text on Image
-Nothing fancy.
-Just us.
+Same place.
+Same person.
+Still choosing.
 
 ## Text Style
-Clean modern serif font, white text, bottom center.
+Modern serif font, white text, bottom center.
 
 ## Caption
-When comfort becomes attraction 🖤
+Consistency is sexy 🖤
 
 ## Hashtags
-#AdultLove #QuietRomance #MatureRelationship #SoftIntimacy
+#LongTermLove #AdultRelationship #ChoosingEachOther

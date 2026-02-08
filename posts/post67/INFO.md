@@ -1,17 +1,18 @@
-# Post 67 Data (Source Text 67)
+# Post 75 Data (Source Text 75)
 
 ## Image Prompt
-Chibi adult couple walking hand in hand confidently, smiling, neutral pastel background, romantic calm energy.
+Baby cartoon couple linking pinky fingers, serious cute expressions, pastel yellow background, sparkles around hands.
 
 ## Text on Image
-Yes, we’re annoying.
-Together 😌❤️
+Pinky promise…
+main tumhara 🥺❤️
 
 ## Text Style
-Bold cute rounded font, white text.
+Rounded baby font, white with pink outline.
 
 ## Caption
-And we love it 💕
+Serious commitment.
+Tiny humans 🫶🍼
 
 ## Hashtags
-#CoupleEnergy #CuteAdultLove #TogetherVibes
+#PinkyPromise #BabyLove #CuteBond #HeartTouch

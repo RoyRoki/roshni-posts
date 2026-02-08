@@ -1,18 +1,18 @@
-# Post 17 Data (Source Text 17)
+# Post 20 Data (Source Text 20)
 
 ## Image Prompt
-Cartoon couple walking in rain, one holding umbrella over both, emotional cinematic lighting, muted colors.
+Cute cartoon cats lying on a rooftop at night, stars above, one cat holding the other's paw gently, calm and emotional vibe.
 
 ## Text on Image
-Thak jao toh aa jana,
-main hoon.
+Din kharab ho sakta hai,
+tum nahi 🤍
 
 ## Text Style
-Soft handwritten font, white glow, bottom center.
+Simple elegant font, soft white glow, center.
 
 ## Caption
-Not fixing.
-Just staying 🤍
+Some people don’t fix your day.
+They fix you 🌙🤍
 
 ## Hashtags
-#HealingLove #EmotionalSupport #CoupleGoals #HindiLove
+#EmotionalComfort #CatLove #NightFeelings #DeepCare

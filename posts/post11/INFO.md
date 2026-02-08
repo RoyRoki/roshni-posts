@@ -1,18 +1,18 @@
-# Post 11 Data (Source Text 11)
+# Post 13 Data (Source Text 13)
 
 ## Image Prompt
-Cute cartoon couple sleeping while holding hands, one snoring softly, warm night light, cozy pastel tones.
+Minimal cartoon couple sitting on rooftop at night, city lights blurred, calm emotional vibe, dark blue tones.
 
 ## Text on Image
-Gussa kal.
-Aaj sona hai 😴❤️
+Sab theek ho jayega,
+bas saath rehna.
 
 ## Text Style
-Handwritten casual font, cream color, top left.
+Simple clean serif font, soft white glow, bottom center.
 
 ## Caption
-Arguments expire.
-Love doesn’t 😌
+Promises don’t heal.
+Presence does 🌑❤️
 
 ## Hashtags
-#CuteCouple #FunnyLove #NightPost #RelationshipHumor #LoveDaily
+#EmotionalLove #NightVibes #HindiQuotes #DeepRelationship

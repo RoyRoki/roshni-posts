@@ -1,18 +1,16 @@
-# Post 27 Data (Source Text 27)
+# Post 32 Data (Source Text 32)
 
 ## Image Prompt
-Cute chubby cartoon bear blushing while looking at another bear, hearts popping suddenly, pastel pink background.
+Cute cartoon couple hugging tightly, soft warm colors.
 
 ## Text on Image
-Bas ek hi problem hai…
-tum bahut zyada cute ho 🥺❤️
+Tu hi hai ❤️
 
 ## Text Style
-Cute bubble font, white with pink outline, center.
+Bold handwritten font, white, center.
 
 ## Caption
-Problem hai.
-Solution nahi 😌❤️
+Bas itna kaafi hai 🤍
 
 ## Hashtags
-#TooCute #InstantLike #CuteCouple #LovePost #AwwMoment
+#SimpleLove #OneLinePost #CoupleFeels #HeartTouch

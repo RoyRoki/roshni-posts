@@ -1,18 +1,16 @@
-# Post 45 Data (Source Text 45)
+# Post 52 Data (Source Text 52)
 
 ## Image Prompt
-Super cute baby-style cartoon couple, big shiny eyes, rosy cheeks, one baby looking shy while the other smiles softly, pastel pink background, hearts floating.
+Baby-style cartoon couple holding pinky fingers, big shiny eyes, pastel background.
 
 ## Text on Image
-Mujhe dekh ke jo tum muskurate ho,
-bas wahi pyaar hai 🥺❤️
+Tu + Main 🍼❤️
 
 ## Text Style
-Cute rounded bubble font, white text with soft pink outline, center.
+Bold cute bubble font, center.
 
 ## Caption
-Soft smile.
-Strong feelings 🫶
+Enough said 🥺🤍
 
 ## Hashtags
-#BabyCute #RomanticFeels #AwwLove #CuteCouple #InstantLike
+#BabyCouple #CuteLove #AwwVibes #HeartMelting

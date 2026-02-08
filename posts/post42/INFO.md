@@ -1,18 +1,18 @@
-# Post 42 Data (Source Text 42)
+# Post 48 Data (Source Text 48)
 
 ## Image Prompt
-Adult couple sitting quietly after a long day, shoes off, relaxed posture, warm indoor light, realistic illustration.
+Baby-style cartoon couple hugging, eyes closed, soft glow, pastel peach background, hearts floating gently.
 
 ## Text on Image
-Same place.
-Same person.
-Still choosing.
+I like you.
+A lot. 🥺❤️
 
 ## Text Style
-Modern serif font, white text, bottom center.
+Cute minimal sans-serif font, white text, center.
 
 ## Caption
-Consistency is sexy 🖤
+Simple words.
+Real feelings 🤍
 
 ## Hashtags
-#LongTermLove #AdultRelationship #ChoosingEachOther
+#BabyCute #SoftRomance #AwwMoment #LovePost

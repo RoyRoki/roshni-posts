@@ -1,18 +1,18 @@
-# Post 15 Data (Source Text 15)
+# Post 18 Data (Source Text 18)
 
 ## Image Prompt
-Soft illustration of cartoon couple sharing earphones, sunset sky, calm romantic mood, pastel orange and pink tones.
+Cute cartoon bear holding another bear's hand tightly, side-eye expression, hearts floating.
 
 ## Text on Image
-তুমি থাকলেই
-দিনটা সুন্দর লাগে 🤍
+Public ke liye sweet,
+mere liye sirf 😤❤️
 
 ## Text Style
-Elegant Bangla script, white text, middle.
+Cute bold font, white with red outline, center.
 
 ## Caption
-কিছু মানুষ
-দিন বদলে দেয় ✨
+Soft outside.
+Serious inside 😌
 
 ## Hashtags
-#BanglaLove #SoftRomance #CoupleMood #AestheticPost
+#PossessiveLove #CuteCouple #RelationshipMood #ViralCute

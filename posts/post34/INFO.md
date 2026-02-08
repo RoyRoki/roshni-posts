@@ -1,17 +1,18 @@
-# Post 34 Data (Source Text 34)
+# Post 39 Data (Source Text 39)
 
 ## Image Prompt
-Cute cartoon couple under blanket watching phone together, dim warm light, cozy vibe.
+Adult couple walking side by side on an empty street, evening light, calm and grounded mood, realistic illustration.
 
 ## Text on Image
-Sab thik lagta hai
-jab tum paas ho 🤍
+Zyada pyaar nahi,
+bas samajhna chahiye.
 
 ## Text Style
-Soft cursive font, cream color, bottom.
+Simple elegant Hindi font, white text, bottom.
 
 ## Caption
-Comfort > everything 🌙🤍
+Pyaar shor nahi karta.
+Saath nibhata hai 🤍
 
 ## Hashtags
-#CozyLove #NightPost #SoftCouple #InstantHearts
+#MatureLove #HindiQuotes #AdultRelationship #DeepBond

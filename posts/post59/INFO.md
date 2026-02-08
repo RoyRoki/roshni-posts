@@ -1,18 +1,17 @@
-# Post 59 Data (Source Text 59)
+# Post 67 Data (Source Text 67)
 
 ## Image Prompt
-Adult couple standing close, one arm around waist protectively, confident sensual energy, neutral background.
+Chibi adult couple walking hand in hand confidently, smiling, neutral pastel background, romantic calm energy.
 
 ## Text on Image
-Mine.
-And I don’t share.
+Yes, we’re annoying.
+Together 😌❤️
 
 ## Text Style
-Bold minimalist font, white text.
+Bold cute rounded font, white text.
 
 ## Caption
-Soft voice.
-Strong claim 🔥
+And we love it 💕
 
 ## Hashtags
-#AdultPossessive #18PlusRomance #CoupleEnergy
+#CoupleEnergy #CuteAdultLove #TogetherVibes
