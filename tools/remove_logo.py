@@ -4,7 +4,7 @@ import os
 import sys
 
 # Configuration
-POSTS_DIR = os.path.expanduser("/Users/test/Desktop/roshni/posts")
+TARGET_DIR = "/Users/test/agent/works/astra_terra/public/video/hero-frames"
 
 def remove_logo(image_path):
     print(f"Processing {image_path}...")
@@ -53,16 +53,16 @@ def main():
         for arg in sys.argv[1:]:
             remove_logo(arg)
     else:
-        # Process all images in posts/post*/image.png
+        # Process all images in the target directory
         count = 0
-        if not os.path.exists(POSTS_DIR):
-             print(f"Directory {POSTS_DIR} does not exist.")
+        if not os.path.exists(TARGET_DIR):
+             print(f"Directory {TARGET_DIR} does not exist.")
              return
 
-        for root, dirs, files in os.walk(POSTS_DIR):
+        for root, dirs, files in os.walk(TARGET_DIR):
             for file in files:
                 ext = os.path.splitext(file)[1].lower()
-                if ext in {'.png', '.jpg', '.jpeg', '.webp'}: # Add support for other formats
+                if ext in {'.png', '.jpg', '.jpeg', '.webp'}:
                     full_path = os.path.join(root, file)
                     if remove_logo(full_path):
                         count += 1
