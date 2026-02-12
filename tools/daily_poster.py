@@ -102,7 +102,7 @@ def main():
     print(f"Caption: {caption[:50]}...")
 
     # 1. Create Container
-    container_id = create_media_container(image_url, caption)
+    container_id, error = create_media_container(image_url, caption)
     
     if container_id:
         # 2. Publish
@@ -113,7 +113,25 @@ def main():
         else:
             print("Failed to publish media container.")
     else:
-        print("Failed to create media container.")
+        print(f"Failed to create media container. Error: {error}")
+        
+        # Check for Token Expiration (Code 190)
+        # Structure: {'error': {'message': '...', 'type': 'OAuthException', 'code': 190, ...}}
+        if error and isinstance(error, dict) and 'error' in error:
+            err_details = error['error']
+            if err_details.get('code') == 190 or err_details.get('code') == '190':
+                print("Detected Token Expiration! Sending alert email...")
+                try:
+                    from tools.check_and_send_mail import send_alert_email
+                    subject = "URGENT: Instagram Token Expired"
+                    body = (f"The Instagram Access Token has expired.\n\n"
+                            f"Error: {err_details.get('message')}\n\n"
+                            f"Please update the ACCESS_TOKEN secret in the GitHub Repository immediately.")
+                    send_alert_email(subject, body)
+                except ImportError:
+                    print("Could not import send_alert_email function.")
+                except Exception as e:
+                    print(f"Failed to send alert email: {e}")
 
     # Update State regardless of success (User Request: "change the index of next post")
     # This prevents getting stuck on one post if it fails.

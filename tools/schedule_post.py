@@ -36,13 +36,13 @@ def create_media_container(image_url, caption, scheduled_timestamp=None):
         if "id" in data:
             container_id = data["id"]
             print(f"  -> Container ID: {container_id}")
-            return container_id
+            return container_id, None
         else:
             print(f"  -> Error: {data}")
-            return None
+            return None, data
     except Exception as e:
         print(f"  -> Request Failed: {e}")
-        return None
+        return None, {"error": str(e)}
 
 def publish_media(container_id):
     """
@@ -93,7 +93,7 @@ def main():
             print("Timestamp required for scheduling.")
             return
 
-    container_id = create_media_container(image_url, caption, scheduled_timestamp=timestamp)
+    container_id, _ = create_media_container(image_url, caption, scheduled_timestamp=timestamp)
     
     if container_id:
         if mode == 's':

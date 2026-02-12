@@ -28,7 +28,7 @@ def local_schedule(image_url, caption, target_time_str):
     print(f"Wait Time: {wait_seconds / 60:.2f} minutes")
     
     # 1. Create container now to verify inputs and get it ready
-    container_id = create_media_container(image_url, caption)
+    container_id, _ = create_media_container(image_url, caption)
     if not container_id:
         print("Failed to create media container. Aborting.")
         return
