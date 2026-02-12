@@ -110,13 +110,16 @@ def main():
         
         if publish_id:
             print(f"Successfully published Post {current_id}!")
-            # 3. Update State
-            state["next_post_id"] = current_id + 1
-            save_state(state)
         else:
             print("Failed to publish media container.")
     else:
         print("Failed to create media container.")
+
+    # Update State regardless of success (User Request: "change the index of next post")
+    # This prevents getting stuck on one post if it fails.
+    print(f"Moving to next post index (current: {current_id} -> next: {current_id + 1})")
+    state["next_post_id"] = current_id + 1
+    save_state(state)
 
 if __name__ == "__main__":
     main()
